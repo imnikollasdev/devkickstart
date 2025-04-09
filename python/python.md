@@ -192,14 +192,12 @@ print(pessoa["nome"])
 ---
 
 ## 12. Fontes recomendadas
-
 - [Documentação oficial (PT-BR)](https://docs.python.org/pt-br/3/)
-- [Curso em Vídeo - Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ2f3OCz2Z7y8pkl83N3Z_)
-- [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/)
+- [Curso em Vídeo - Python](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&si=JLyPRTLwmdIgAh44)
+- [Python para Iniciantes](https://learn.microsoft.com/pt-br/shows/intro-to-python-development/)
 - [W3Schools - Python](https://www.w3schools.com/python/)
 - [Exercism - Python](https://exercism.io/tracks/python)
 
 ---
 
-> *Fim da apostila de Python - Módulo introdutório*
-
+> *Fim da apostila de Python - Módulo introdutório*        
