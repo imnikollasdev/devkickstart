@@ -56,7 +56,7 @@ devkickstart/
 
 | Linguagem | Status | Material disponível |
 |----------|--------|---------------------|
-| 🐍 Python | ✅ Concluído | Apostila + Exemplo |
+| 🐍 [Python](/python/python.md) | ✅ Concluído | Apostila + Exemplo |
 | ⚡ JavaScript | 🔜 Em breve | Estrutura inicial |
 | 🌙 Lua | 🔜 Em breve | Estrutura inicial |
 
