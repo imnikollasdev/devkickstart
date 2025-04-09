@@ -21,11 +21,19 @@ O conteúdo é estruturado em formato de apostilas e exemplos comentados, ideal 
 
 ## 📘 Linguagens
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
-</div>
+## 📘 Linguagens
+
+<p align="left">
+  <a href="./python/README.md" title="Ver apostila de Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  </a>
+  <a href="./javascript/README.md" title="Ver apostila de JavaScript (em breve)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  </a>
+  <a href="./lua/README.md" title="Ver apostila de Lua (em breve)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
+  </a>
+</p>
 
 ---
 
@@ -56,7 +64,7 @@ devkickstart/
 
 | Linguagem | Status | Material disponível |
 |----------|--------|---------------------|
-| 🐍 [Python](/python/python.md) | ✅ Concluído | Apostila + Exemplo |
+| 🐍 Python | 🟡 Em andamento | Apostila (parcial) + Exemplo |
 | ⚡ JavaScript | 🔜 Em breve | Estrutura inicial |
 | 🌙 Lua | 🔜 Em breve | Estrutura inicial |
 
