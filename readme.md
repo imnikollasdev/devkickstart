@@ -21,7 +21,7 @@ O conteúdo é estruturado em formato de apostilas e exemplos comentados, ideal 
 
 ## 📘 Linguagens
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
@@ -29,7 +29,7 @@ O conteúdo é estruturado em formato de apostilas e exemplos comentados, ideal 
 
 ---
 
-## 🧩 Estrutura do repositório
+## 📂 Estrutura do repositório
 
 ```bash
 devkickstart/
@@ -39,56 +39,58 @@ devkickstart/
 ├── javascript/             # Em breve
 ├── lua/                    # Em breve
 └── README.md               # Apresentação geral do projeto
-
 ```
 
 ---
 
-## 💡 Objetivos
+## 🎯 Objetivos
 
-- Fornecer uma introdução clara, objetiva e técnica às linguagens estudadas
-- Demonstrar boas práticas desde os primeiros exemplos
-- Estimular o aprendizado ativo através de desafios e exercícios
-- Oferecer um repositório modular, didático e escalável
-
----
-
-## 📘 Conteúdo disponível
-
-### Python ✅
-- Apostila completa em formato Markdown
-- Tipos primitivos, condicionais, loops, funções, listas, dicionários, etc.
-- Exemplo prático com menu interativo e estrutura modular (`example.py`)
-
-### JavaScript 🔜
-- Apostila introdutória (em desenvolvimento)
-- Uso moderno da linguagem (ES6+), DOM, funções, arrays, objetos
-
-### Lua 🔜
-- Conteúdo voltado para aplicações em jogos, automações e scripts
+- 📚 Fornecer introduções técnicas e diretas
+- 💡 Aplicar os conceitos com exemplos reais
+- ✅ Estimular boas práticas desde o início
+- 🧱 Servir como base de apoio para novos desenvolvedores
 
 ---
 
-## 🧪 Tecnologias utilizadas
+## 📌 Tecnologias
 
-- Markdown para estruturação das apostilas
-- Python 3.10+ para exemplos funcionais
-- Git + GitHub para versionamento e colaboração
+| Linguagem | Status | Material disponível |
+|----------|--------|---------------------|
+| 🐍 Python | ✅ Concluído | Apostila + Exemplo |
+| ⚡ JavaScript | 🔜 Em breve | Estrutura inicial |
+| 🌙 Lua | 🔜 Em breve | Estrutura inicial |
+
+---
+
+## 💻 Como utilizar
+
+1. Escolha a linguagem desejada no menu acima
+2. Acesse a apostila (`README.md` da pasta)
+3. Leia os exemplos, execute no seu ambiente
+4. Pratique com os exercícios propostos
+5. Aprofunde-se nas fontes indicadas
+
+---
+
+## 🤝 Contribua
+
+Você pode contribuir com:
+
+- Correções (texto, exemplos)
+- Traduções
+- Sugestões de melhoria
+- Apostilas para outras linguagens
+
+> Abra uma issue ou envie um pull request 🙌
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido e mantido por [**@imnikollasdev**](https://github.com/imnikollasdev)
-
-> Contribuições, sugestões e issues são bem-vindas.
+Feito com 💙 por [**@imnikollasdev**](https://github.com/imnikollasdev)
 
 ---
 
 ## 📄 Licença
 
-Este projeto está licenciado sob os termos da [MIT License](./LICENSE).
-
----
-
-> _"Quem domina os fundamentos, constrói qualquer coisa."_
+Este projeto está licenciado sob a [MIT License](./LICENSE)
