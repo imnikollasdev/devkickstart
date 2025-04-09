@@ -24,12 +24,12 @@ O repositório oferece **apostilas práticas** sobre linguagens de programação
 
 | Linguagem       | Logo | Status        | Apostila                        |
 |-----------------|------|---------------|----------------------------------|
-| Python          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | 🟡 Em andamento | [Ver conteúdo](./linguagens/python/README.md) |
-| JavaScript      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/javascript/README.md) |
-| Lua             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/lua/README.md) |
-| Java            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/java/README.md) |
-| C++             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/cplusplus/README.md) |
-| Go              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/go/README.md) |
+| Python          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | 🟡 Em andamento | [Ver conteúdo](./linguagens/python/python.md) |
+| JavaScript      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/javascript/javascript.md) |
+| Lua             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/lua/lua.md) |
+| Java            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/java/java.md) |
+| C++             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/c++/c++.md) |
+| Go              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/go/go.md) |
 
 ---
 
