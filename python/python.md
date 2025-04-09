@@ -6,24 +6,24 @@
 
 ## 📖 Sumário
 
-1. [O que é Python?](#o-que-é-python)
+1. [O que é Python?](#o-que-e-python)
 2. [Por que aprender Python?](#por-que-aprender-python)
 3. [Primeiros passos](#primeiros-passos)
 4. [Conceitos fundamentais](#conceitos-fundamentais)
-5. [Sintaxe básica](#sintaxe-básica)
-6. [Exemplos práticos](#exemplos-práticos)
+5. [Sintaxe básica](#sintaxe-basica)
+6. [Exemplos práticos](#exemplos-praticos)
 7. [Materiais recomendados](#materiais-recomendados)
 8. [Desafios sugeridos](#desafios-sugeridos)
 
 ---
 
-## 📌 O que é Python?
+## O que é Python?
 
 Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. Seu foco está na legibilidade do código, o que a torna ideal para iniciantes. É amplamente usada em ciência de dados, automação, desenvolvimento web, inteligência artificial e muito mais.
 
 ---
 
-## ❓ Por que aprender Python?
+## Por que aprender Python?
 
 - 📚 Sintaxe simples e legível
 - 🔥 Comunidade gigante e ativa
@@ -33,7 +33,7 @@ Python é uma linguagem de programação de alto nível, interpretada e de prop�
 
 ---
 
-## 🚀 Primeiros passos
+## Primeiros passos
 
 Você pode rodar Python de várias formas:
 
@@ -45,7 +45,7 @@ Para instalar Python: [https://www.python.org/downloads/](https://www.python.org
 
 ---
 
-## 🔤 Conceitos fundamentais
+## Conceitos fundamentais
 
 | Conceito        | Descrição                                           |
 |----------------|-----------------------------------------------------|
@@ -58,7 +58,7 @@ Para instalar Python: [https://www.python.org/downloads/](https://www.python.org
 
 ---
 
-## 💻 Sintaxe básica
+## Sintaxe basica
 
 ```python
 # Comentário
