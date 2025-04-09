@@ -21,17 +21,11 @@ O conteúdo é estruturado em formato de apostilas e exemplos comentados, ideal 
 
 ## 📘 Linguagens
 
-<p align="left">
-  <a href="./python/python.md" title="Ver apostila de Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  </a>
-  <a href="./javascript/javascript.md" title="Ver apostila de JavaScript (em breve)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  </a>
-  <a href="./lua/lua.md" title="Ver apostila de Lua (em breve)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
-  </a>
-</p>
+| Linguagem   | Logo | Status        | Apostila                        |
+|-------------|------|---------------|----------------------------------|
+| Python      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | 🟡 Em andamento | [Ver conteúdo](./python/README.md) |
+| JavaScript  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | 🔜 Em breve     | *Em desenvolvimento*             |
+| Lua         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30"/> | 🔜 Em breve     | *Em desenvolvimento*             |
 
 ---
 
@@ -58,19 +52,9 @@ devkickstart/
 
 ---
 
-## 📌 Tecnologias
-
-| Linguagem | Status | Material disponível |
-|----------|--------|---------------------|
-| 🐍 Python | 🟡 Em andamento | Apostila (parcial) + Exemplo |
-| ⚡ JavaScript | 🔜 Em breve | Estrutura inicial |
-| 🌙 Lua | 🔜 Em breve | Estrutura inicial |
-
----
-
 ## 💻 Como utilizar
 
-1. Escolha a linguagem desejada no menu acima
+1. Escolha a linguagem desejada na tabela acima
 2. Acesse a apostila (`README.md` da pasta)
 3. Leia os exemplos, execute no seu ambiente
 4. Pratique com os exercícios propostos
