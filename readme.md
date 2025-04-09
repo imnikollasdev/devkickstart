@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/143351208?v=4" width="40" style="border-radius: 50%; margin-right: 10px;" alt="DevKickStart logo"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CA3B36&center=true&vCenter=true&width=435&lines=DevKickStart+by+@imnikollasdev" alt="Typing SVG" />
+  <img src="https://avatars.githubusercontent.com/u/143351208?v=4" width="40" alt="DevKickStart logo"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=CA3B36&center=true&vCenter=true&width=435&lines=DevKickStart+by+@imnikollasdev" alt="Typing SVG" />
 </p>
 
 
