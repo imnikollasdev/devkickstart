@@ -40,43 +40,43 @@ O repositório oferece **apostilas práticas** sobre linguagens de programação
 
 ```bash
 devkickstart/
-├── README.md                 # Página principal com informações gerais do projeto
-├── linguagens/               # Seção com apostilas de linguagens de programação
-│   ├── python/               # Apostila Python
-│   ├── javascript/           # Apostila JavaScript
-│   ├── lua/                  # Apostila Lua
-│   ├── java/                 # Apostila Java
-│   ├── cplusplus/            # Apostila C++
-│   ├── go/                   # Apostila Go
-│   ├── django/               # Framework Django (Python)
-│   └── react/                # Framework React (JavaScript)
-├── exemplos/                 # Exemplos práticos de código
-│   ├── python_examples.py    # Exemplos práticos em Python
-│   ├── javascript_examples.js # Exemplos práticos em JavaScript
-│   ├── lua_examples.lua      # Exemplos práticos em Lua
-│   ├── java_examples.java   # Exemplos práticos em Java
-│   ├── cplusplus_examples.cpp # Exemplos práticos em C++
-│   └── go_examples.go       # Exemplos práticos em Go
-├── logica_e_algoritmos/      # Lógica de programação e algoritmos
-│   ├── README.md             # Introdução à lógica e algoritmos
-│   ├── exemplos_algoritmos.py # Exemplos de algoritmos em Python
-│   └── desafios/             # Desafios de lógica para praticar
-│       └── desafio1.md       # Desafio 1: Algoritmo simples
-├── tecnologias-avancadas/    # Cloud Computing, bancos de dados, IA, etc.
-│   ├── cloud_computing/      # Introdução a Cloud Computing
-│   │   ├── README.md         # Conteúdo e tópicos futuros sobre Cloud
-│   │   └── exemplos_cloud.py # Exemplos práticos de Cloud Computing
-│   ├── banco_de_dados/       # Introdução a bancos de dados
-│   │   ├── README.md         # Tópicos sobre banco de dados
-│   │   └── exemplos_db.py    # Exemplos práticos sobre banco de dados
+├── README.md                     # Página principal com informações gerais do projeto
+├── linguagens/                   # Seção com apostilas de linguagens de programação
+│   ├── python/                   # Apostila Python
+│   ├── javascript/               # Apostila JavaScript
+│   ├── lua/                      # Apostila Lua
+│   ├── java/                     # Apostila Java
+│   ├── cplusplus/                # Apostila C++
+│   ├── go/                       # Apostila Go
+│   ├── django/                   # Framework Django (Python)
+│   └── react/                    # Framework React (JavaScript)
+├── exemplos/                     # Exemplos práticos de código
+│   ├── python_examples.py        # Exemplos práticos em Python
+│   ├── javascript_examples.js    # Exemplos práticos em JavaScript
+│   ├── lua_examples.lua          # Exemplos práticos em Lua
+│   ├── java_examples.java        # Exemplos práticos em Java
+│   ├── cplusplus_examples.cpp    # Exemplos práticos em C++
+│   └── go_examples.go            # Exemplos práticos em Go
+├── logica_e_algoritmos/          # Lógica de programação e algoritmos
+│   ├── README.md                 # Introdução à lógica e algoritmos
+│   ├── exemplos_algoritmos.py    # Exemplos de algoritmos em Python
+│   └── desafios/                 # Desafios de lógica para praticar
+│       └── desafio1.md           # Desafio 1: Algoritmo simples
+├── tecnologias-avancadas/        # Cloud Computing, bancos de dados, IA, etc.
+│   ├── cloud_computing/          # Introdução a Cloud Computing
+│   │   ├── README.md             # Conteúdo e tópicos futuros sobre Cloud
+│   │   └── exemplos_cloud.py     # Exemplos práticos de Cloud Computing
+│   ├── banco_de_dados/           # Introdução a bancos de dados
+│   │   ├── README.md             # Tópicos sobre banco de dados
+│   │   └── exemplos_db.py        # Exemplos práticos sobre banco de dados
 │   └── inteligencia_artificial/  # Introdução à IA e Machine Learning
-│       ├── README.md         # Tópicos sobre IA
-│       └── exemplos_ai.py    # Exemplos práticos de IA (ex: machine learning)
-└── frameworks/               # Introdução a frameworks populares
-    ├── django/               # Django (Python)
-    │   └── README.md         # Apostila Django
-    └── react/                # React (JavaScript)
-        └── README.md         # Apostila React
+│       ├── README.md             # Tópicos sobre IA
+│       └── exemplos_ai.py        # Exemplos práticos de IA (ex: machine learning)
+└── frameworks/                   # Introdução a frameworks populares
+    ├── django/                   # Django (Python)
+    │   └── README.md             # Apostila Django
+    └── react/                    # React (JavaScript)
+        └── README.md             # Apostila React
 ```
 
 ---
