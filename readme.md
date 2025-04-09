@@ -52,14 +52,14 @@ devkickstart/
 │   └── react/                # Framework React (JavaScript)
 ├── exemplos/                 # Exemplos práticos de código
 │   ├── python_examples.py    # Exemplos práticos em Python
-│   ├── javascript_examples.js# Exemplos práticos em JavaScript
+│   ├── javascript_examples.js # Exemplos práticos em JavaScript
 │   ├── lua_examples.lua      # Exemplos práticos em Lua
 │   ├── java_examples.java   # Exemplos práticos em Java
-│   ├── cplusplus_examples.cpp# Exemplos práticos em C++
+│   ├── cplusplus_examples.cpp # Exemplos práticos em C++
 │   └── go_examples.go       # Exemplos práticos em Go
 ├── logica_e_algoritmos/      # Lógica de programação e algoritmos
 │   ├── README.md             # Introdução à lógica e algoritmos
-│   ├── exemplos_algoritmos.py# Exemplos de algoritmos em Python
+│   ├── exemplos_algoritmos.py # Exemplos de algoritmos em Python
 │   └── desafios/             # Desafios de lógica para praticar
 │       └── desafio1.md       # Desafio 1: Algoritmo simples
 ├── tecnologias-avancadas/    # Cloud Computing, bancos de dados, IA, etc.
