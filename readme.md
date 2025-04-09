@@ -12,20 +12,24 @@
 
 # 🧠 DevKickstart
 
-**DevKickstart** é um repositório de aprendizado técnico com foco em introdução prática às linguagens de programação mais utilizadas no mercado.  
-O conteúdo é estruturado em formato de apostilas e exemplos comentados, ideal para iniciantes e estudantes autodidatas.
+**DevKickstart** é um **mini curso modular** de programação e desenvolvimento de software, com foco em fornecer uma base sólida de aprendizado em diversas áreas da tecnologia.  
+O repositório oferece **apostilas práticas** sobre linguagens de programação, **algoritmos**, **estruturas de dados**, e tópicos mais avançados, como **Cloud Computing**, **bancos de dados** e **Inteligência Artificial**. Ideal para iniciantes e desenvolvedores que desejam melhorar seus conhecimentos técnicos e expandir suas habilidades.
 
 > 🔬 _“Construa bases sólidas, domine qualquer linguagem.”_
 
+
 ---
 
-## 📘 Linguagens
+## 📘 Linguagens e Tecnologias
 
-| Linguagem   | Logo | Status        | Apostila                        |
-|-------------|------|---------------|----------------------------------|
-| Python      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | 🟡 Em andamento | [Ver conteúdo](./python/README.md) |
-| JavaScript  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | 🔜 Em breve     | *Em desenvolvimento*             |
-| Lua         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30"/> | 🔜 Em breve     | *Em desenvolvimento*             |
+| Linguagem       | Logo | Status        | Apostila                        |
+|-----------------|------|---------------|----------------------------------|
+| Python          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | 🟡 Em andamento | [Ver conteúdo](./linguagens/python/README.md) |
+| JavaScript      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/javascript/README.md) |
+| Lua             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/lua/README.md) |
+| Java            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/java/README.md) |
+| C++             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/cplusplus/README.md) |
+| Go              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/go/README.md) |
 
 ---
 
@@ -33,12 +37,43 @@ O conteúdo é estruturado em formato de apostilas e exemplos comentados, ideal 
 
 ```bash
 devkickstart/
-├── python/
-│   ├── README.md           # Apostila completa
-│   └── example.py          # Exemplo prático de sistema funcional
-├── javascript/             # Em breve
-├── lua/                    # Em breve
-└── README.md               # Apresentação geral do projeto
+├── README.md                 # Página principal com informações gerais do projeto
+├── linguagens/               # Seção com apostilas de linguagens de programação
+│   ├── python/               # Apostila Python
+│   ├── javascript/           # Apostila JavaScript
+│   ├── lua/                  # Apostila Lua
+│   ├── java/                 # Apostila Java
+│   ├── cplusplus/            # Apostila C++
+│   ├── go/                   # Apostila Go
+│   ├── django/               # Framework Django (Python)
+│   └── react/                # Framework React (JavaScript)
+├── exemplos/                 # Exemplos práticos de código
+│   ├── python_examples.py    # Exemplos práticos em Python
+│   ├── javascript_examples.js# Exemplos práticos em JavaScript
+│   ├── lua_examples.lua      # Exemplos práticos em Lua
+│   ├── java_examples.java   # Exemplos práticos em Java
+│   ├── cplusplus_examples.cpp# Exemplos práticos em C++
+│   └── go_examples.go       # Exemplos práticos em Go
+├── logica_e_algoritmos/      # Lógica de programação e algoritmos
+│   ├── README.md             # Introdução à lógica e algoritmos
+│   ├── exemplos_algoritmos.py# Exemplos de algoritmos em Python
+│   └── desafios/             # Desafios de lógica para praticar
+│       └── desafio1.md       # Desafio 1: Algoritmo simples
+├── tecnologias-avancadas/    # Cloud Computing, bancos de dados, IA, etc.
+│   ├── cloud_computing/      # Introdução a Cloud Computing
+│   │   ├── README.md         # Conteúdo e tópicos futuros sobre Cloud
+│   │   └── exemplos_cloud.py # Exemplos práticos de Cloud Computing
+│   ├── banco_de_dados/       # Introdução a bancos de dados
+│   │   ├── README.md         # Tópicos sobre banco de dados
+│   │   └── exemplos_db.py    # Exemplos práticos sobre banco de dados
+│   └── inteligencia_artificial/  # Introdução à IA e Machine Learning
+│       ├── README.md         # Tópicos sobre IA
+│       └── exemplos_ai.py    # Exemplos práticos de IA (ex: machine learning)
+└── frameworks/               # Introdução a frameworks populares
+    ├── django/               # Django (Python)
+    │   └── README.md         # Apostila Django
+    └── react/                # React (JavaScript)
+        └── README.md         # Apostila React
 ```
 
 ---
@@ -54,7 +89,7 @@ devkickstart/
 
 ## 💻 Como utilizar
 
-1. Escolha a linguagem desejada na tabela acima
+1. Escolha a linguagem ou tecnologia desejada na tabela acima
 2. Acesse a apostila (`README.md` da pasta)
 3. Leia os exemplos, execute no seu ambiente
 4. Pratique com os exercícios propostos
@@ -67,11 +102,11 @@ devkickstart/
 Você pode contribuir com:
 
 - Correções (texto, exemplos)
-- Traduções
+- Traduções (em breve)
 - Sugestões de melhoria
 - Apostilas para outras linguagens
 
-> Abra uma issue ou envie um pull request 🙌
+> Abra uma issue 🙌
 
 ---
 
