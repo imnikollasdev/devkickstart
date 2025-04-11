@@ -40,7 +40,7 @@ A simplicidade do Python faz dele uma excelente linguagem de **iniciação** par
 
 ### Instalação:
 
-1. Acesse [Python.org](https://www.python.org/downloads/) e baixe a versão apropriada.
+1. Acesse <a href="https://www.python.org/downloads/" target="_blank">Python.org</a> e baixe a versão apropriada.
 2. Durante a instalação, marque a opção **"Add Python to PATH"** para configurar automaticamente o ambiente.
 
 ### Verificação:
