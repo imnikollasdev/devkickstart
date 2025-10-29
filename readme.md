@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/143351208?v=4" width="40" alt="DevKickStart logo"/>
+  <img src="https://avatars.githubusercontent.com/u/143351208?v=4" width="60" alt="DevKickStart logo"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=CA3B36&center=true&vCenter=true&width=435&lines=DevKickStart+by+@imnikollasdev" alt="Typing SVG" />
 </p>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue" alt="Status">
@@ -13,112 +11,145 @@
 
 ---
 
-# 🧠 DevKickstart
+# 🧠 DevKickStart
 
-**DevKickstart** é um **mini curso modular** de programação e desenvolvimento de software, com foco em fornecer uma base sólida de aprendizado em diversas áreas da tecnologia.  
-O repositório oferece **apostilas práticas** sobre linguagens de programação, **algoritmos**, **estruturas de dados**, e tópicos mais avançados, como **Cloud Computing**, **bancos de dados** e **Inteligência Artificial**. Ideal para iniciantes e desenvolvedores que desejam melhorar seus conhecimentos técnicos e expandir suas habilidades.
+**DevKickStart** é um **mini curso modular** de programação e desenvolvimento de software.  
+O objetivo é ensinar linguagens e tecnologias **de forma progressiva**, em **módulos práticos**, com exemplos e exercícios que evoluem junto com o aluno.
 
 > 🔬 _“Construa bases sólidas, domine qualquer linguagem.”_
-
 
 ---
 
 ## 📘 Linguagens e Tecnologias
 
-| Linguagem       | Logo | Status        | Apostila                        |
-|-----------------|------|---------------|----------------------------------|
-| Python          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | 🟡 Em andamento | [Ver conteúdo](./linguagens/python/python.md) |
-| JavaScript      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/javascript/javascript.md) |
-| Lua             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/lua/lua.md) |
-| Java            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/java/java.md) |
-| C++             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/c++/c++.md) |
-| Go              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/go/go.md) |
+| Linguagem | Logo | Status | Módulos |
+|------------|------|---------|----------|
+| 🐍 **Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | 🟢 Módulo 1 pronto | [Módulo 1](./linguagens/python/modulo1_fundamentos.md) · [Módulo 2](./linguagens/python/modulo2_intermediario.md) · [Módulo 3](./linguagens/python/modulo3_avancado.md) |
+| 🌐 **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | 🟡 Em andamento | [Módulo 1](./linguagens/javascript/modulo1_fundamentos.md) · [Módulo 2](./linguagens/javascript/modulo2_intermediario.md) · [Módulo 3](./linguagens/javascript/modulo3_avancado.md) |
+| ☕ **Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> | 🟡 Em andamento | [Módulo 1](./linguagens/java/modulo1_fundamentos.md) · [Módulo 2](./linguagens/java/modulo2_intermediario.md) · [Módulo 3](./linguagens/java/modulo3_avancado.md) |
+| 🧠 **Lua** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30"/> | 🔜 Em breve | [Módulo 1](./linguagens/lua/modulo1_fundamentos.md) |
+| 💻 **C++** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> | 🔜 Em breve | [Módulo 1](./linguagens/cplusplus/modulo1_fundamentos.md) |
+| 🦦 **Go** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/> | 🔜 Em breve | [Módulo 1](./linguagens/go/modulo1_fundamentos.md) |
 
 ---
 
-## 📂 Estrutura do repositório
+## 🧩 Estrutura do Repositório
 
 ```bash
 devkickstart/
-├── README.md                     # Página principal com informações gerais do projeto
-├── linguagens/                   # Seção com apostilas de linguagens de programação
-│   ├── python/                   # Apostila Python
-│   ├── javascript/               # Apostila JavaScript
-│   ├── lua/                      # Apostila Lua
-│   ├── java/                     # Apostila Java
-│   ├── cplusplus/                # Apostila C++
-│   ├── go/                       # Apostila Go
-│   ├── django/                   # Framework Django (Python)
-│   └── react/                    # Framework React (JavaScript)
-├── exemplos/                     # Exemplos práticos de código
-│   ├── python_examples.py        # Exemplos práticos em Python
-│   ├── javascript_examples.js    # Exemplos práticos em JavaScript
-│   ├── lua_examples.lua          # Exemplos práticos em Lua
-│   ├── java_examples.java        # Exemplos práticos em Java
-│   ├── cplusplus_examples.cpp    # Exemplos práticos em C++
-│   └── go_examples.go            # Exemplos práticos em Go
-├── logica_e_algoritmos/          # Lógica de programação e algoritmos
-│   ├── README.md                 # Introdução à lógica e algoritmos
-│   ├── exemplos_algoritmos.py    # Exemplos de algoritmos em Python
-│   └── desafios/                 # Desafios de lógica para praticar
-│       └── desafio1.md           # Desafio 1: Algoritmo simples
-├── tecnologias-avancadas/        # Cloud Computing, bancos de dados, IA, etc.
-│   ├── cloud_computing/          # Introdução a Cloud Computing
-│   │   ├── README.md             # Conteúdo e tópicos futuros sobre Cloud
-│   │   └── exemplos_cloud.py     # Exemplos práticos de Cloud Computing
-│   ├── banco_de_dados/           # Introdução a bancos de dados
-│   │   ├── README.md             # Tópicos sobre banco de dados
-│   │   └── exemplos_db.py        # Exemplos práticos sobre banco de dados
-│   └── inteligencia_artificial/  # Introdução à IA e Machine Learning
-│       ├── README.md             # Tópicos sobre IA
-│       └── exemplos_ai.py        # Exemplos práticos de IA (ex: machine learning)
-└── frameworks/                   # Introdução a frameworks populares
-    ├── django/                   # Django (Python)
-    │   └── README.md             # Apostila Django
-    └── react/                    # React (JavaScript)
-        └── README.md             # Apostila React
+├── README.md                         # Página principal do projeto
+├── LICENSE                           # Licença MIT
+│
+├── linguagens/                       # Apostilas e exemplos por linguagem
+│   ├── python/
+│   │   ├── modulo1_fundamentos.md
+│   │   ├── modulo2_intermediario.md
+│   │   ├── modulo3_avancado.md
+│   │   └── exemplos/
+│   │       ├── fundamentos.py
+│   │       ├── intermediario.py
+│   │       └── avancado.py
+│   │
+│   ├── javascript/
+│   │   ├── modulo1_fundamentos.md
+│   │   ├── modulo2_intermediario.md
+│   │   └── modulo3_avancado.md
+│   │
+│   ├── java/
+│   │   ├── modulo1_fundamentos.md
+│   │   ├── modulo2_intermediario.md
+│   │   └── modulo3_avancado.md
+│   │
+│   ├── lua/
+│   │   ├── modulo1_fundamentos.md
+│   │   ├── modulo2_intermediario.md
+│   │   └── modulo3_avancado.md
+│   │
+│   ├── c++/
+│   │   ├── modulo1_fundamentos.md
+│   │   ├── modulo2_intermediario.md
+│   │   └── modulo3_avancado.md
+│   │
+│   └── go/
+│       ├── modulo1_fundamentos.md
+│       ├── modulo2_intermediario.md
+│       └── modulo3_avancado.md
+│
+├── logica_e_algoritmos/              # Algoritmos e desafios
+│   ├── README.md
+│   ├── exemplos_algoritmos.py
+│   └── desafios/
+│       ├── desafio1.md
+│       ├── desafio2.md
+│       └── desafio3.md
+│
+│
+└── frameworks/                       # Frameworks populares
+    ├── django/
+    │   ├── modulo1_intro.md
+    │   ├── modulo2_crud.md
+    │   └── modulo3_api_rest.md
+    │
+    └── react/
+        ├── modulo1_basico.md
+        ├── modulo2_componentes.md
+        └── modulo3_integracoes.md
 ```
 
 ---
 
 ## 🎯 Objetivos
 
-- 📚 Fornecer introduções técnicas e diretas
-- 💡 Aplicar os conceitos com exemplos reais
-- ✅ Estimular boas práticas desde o início
-- 🧱 Servir como base de apoio para novos desenvolvedores
+- 📚 Ensinar conceitos técnicos de forma **progressiva e modular**
+- 💡 Mostrar aplicações reais desde o primeiro módulo
+- 🧱 Criar uma base sólida para estudos e projetos
+- 🚀 Incentivar o aprendizado prático com exemplos e desafios
 
 ---
 
-## 💻 Como utilizar
+## 🧱 Estrutura Modular
 
-1. Escolha a linguagem ou tecnologia desejada na tabela acima
-2. Acesse a apostila (`README.md` da pasta)
-3. Leia os exemplos, execute no seu ambiente
-4. Pratique com os exercícios propostos
-5. Aprofunde-se nas fontes indicadas
+| Módulo | Nível | Descrição |
+|--------|--------|------------|
+| **1️⃣ Fundamentos** | Iniciante | Sintaxe, variáveis, condicionais, loops |
+| **2️⃣ Intermediário** | Médio | Funções, coleções, arquivos, POO básica |
+| **3️⃣ Avançado** | Avançado | APIs, módulos, exceções e projetos completos |
 
 ---
 
-## 🤝 Contribua
+## 💻 Como Utilizar
+
+1. Escolha a linguagem que deseja estudar  
+2. Leia os módulos em ordem (1 → 2 → 3)  
+3. Execute os exemplos de cada seção  
+4. Resolva os exercícios propostos  
+5. Consulte as fontes recomendadas e expanda seu aprendizado  
+
+> 💬 **Dica:** a prática constante é o que transforma teoria em habilidade real.
+
+---
+
+## 🤝 Como Contribuir
 
 Você pode contribuir com:
 
-- Correções (texto, exemplos)
-- Traduções (em breve)
-- Sugestões de melhoria
-- Apostilas para outras linguagens
+- ✍️ Novos módulos e exemplos  
+- 🧩 Correções e melhorias  
+- 🌍 Traduções (PT-BR / EN)  
+- 💡 Sugestões e ideias de novos conteúdos  
 
-> Abra uma issue 🙌
+Basta abrir uma **issue** ou enviar um **pull request**!
 
 ---
 
 ## 👨‍💻 Autor
 
-Feito com 💙 por [**@imnikollasdev**](https://github.com/imnikollasdev)
+Feito com 💙 por [**@imnikollasdev**](https://github.com/imnikollasdev)  
+> “Estudar é o primeiro deploy da tua carreira.” 🚀
 
 ---
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [MIT License](./LICENSE)
+Este projeto está licenciado sob a [MIT License](./LICENSE).
+
