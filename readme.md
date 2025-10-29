@@ -14,7 +14,7 @@
 # 🧠 DevKickStart
 
 **DevKickStart** é um **mini curso modular** de programação e desenvolvimento de software.  
-O objetivo é ensinar linguagens e tecnologias **de forma progressiva**, em **módulos práticos**, com exemplos e exercícios que evoluem junto com o aluno.
+O objetivo é ensinar linguagens e tecnologias **de forma progressiva**, em **módulos práticos**, com exemplos, explicações e desafios que evoluem junto com o aluno.
 
 > 🔬 _“Construa bases sólidas, domine qualquer linguagem.”_
 
@@ -24,11 +24,11 @@ O objetivo é ensinar linguagens e tecnologias **de forma progressiva**, em **m�
 
 | Linguagem | Logo | Status | Módulos |
 |------------|------|---------|----------|
-| 🐍 **Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | 🟢 Módulo 1 pronto | [Módulo 1](./linguagens/python/modulo1_fundamentos.md) · [Módulo 2](./linguagens/python/modulo2_intermediario.md) · [Módulo 3](./linguagens/python/modulo3_avancado.md) |
+| 🐍 **Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | 🟢 Completo (1–3) | [Módulo 1](./linguagens/python/modulo1_fundamentos.md) · [Módulo 2](./linguagens/python/modulo2_intermediario.md) · [Módulo 3](./linguagens/python/modulo3_avancado.md) |
 | 🌐 **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | 🟡 Em andamento | [Módulo 1](./linguagens/javascript/modulo1_fundamentos.md) · [Módulo 2](./linguagens/javascript/modulo2_intermediario.md) · [Módulo 3](./linguagens/javascript/modulo3_avancado.md) |
 | ☕ **Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> | 🟡 Em andamento | [Módulo 1](./linguagens/java/modulo1_fundamentos.md) · [Módulo 2](./linguagens/java/modulo2_intermediario.md) · [Módulo 3](./linguagens/java/modulo3_avancado.md) |
 | 🧠 **Lua** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30"/> | 🔜 Em breve | [Módulo 1](./linguagens/lua/modulo1_fundamentos.md) |
-| 💻 **C++** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> | 🔜 Em breve | [Módulo 1](./linguagens/cplusplus/modulo1_fundamentos.md) |
+| 💻 **C++** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> | 🔜 Em breve | [Módulo 1](./linguagens/c++/modulo1_fundamentos.md) |
 | 🦦 **Go** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/> | 🔜 Em breve | [Módulo 1](./linguagens/go/modulo1_fundamentos.md) |
 
 ---
@@ -42,38 +42,20 @@ devkickstart/
 │
 ├── linguagens/                       # Apostilas e exemplos por linguagem
 │   ├── python/
+│   │   ├── python.md
 │   │   ├── modulo1_fundamentos.md
 │   │   ├── modulo2_intermediario.md
 │   │   ├── modulo3_avancado.md
 │   │   └── exemplos/
-│   │       ├── fundamentos.py
-│   │       ├── intermediario.py
-│   │       └── avancado.py
+│   │       ├── modulo1_exemplos.py
+│   │       ├── modulo2_exemplos.py
+│   │       └── modulo3_exemplos.py
 │   │
 │   ├── javascript/
-│   │   ├── modulo1_fundamentos.md
-│   │   ├── modulo2_intermediario.md
-│   │   └── modulo3_avancado.md
-│   │
 │   ├── java/
-│   │   ├── modulo1_fundamentos.md
-│   │   ├── modulo2_intermediario.md
-│   │   └── modulo3_avancado.md
-│   │
 │   ├── lua/
-│   │   ├── modulo1_fundamentos.md
-│   │   ├── modulo2_intermediario.md
-│   │   └── modulo3_avancado.md
-│   │
 │   ├── c++/
-│   │   ├── modulo1_fundamentos.md
-│   │   ├── modulo2_intermediario.md
-│   │   └── modulo3_avancado.md
-│   │
 │   └── go/
-│       ├── modulo1_fundamentos.md
-│       ├── modulo2_intermediario.md
-│       └── modulo3_avancado.md
 │
 ├── logica_e_algoritmos/              # Algoritmos e desafios
 │   ├── README.md
@@ -83,27 +65,36 @@ devkickstart/
 │       ├── desafio2.md
 │       └── desafio3.md
 │
-│
-└── frameworks/                       # Frameworks populares
+└── frameworks/                       # Frameworks e tecnologias aplicadas
     ├── django/
     │   ├── modulo1_intro.md
     │   ├── modulo2_crud.md
     │   └── modulo3_api_rest.md
     │
-    └── react/
-        ├── modulo1_basico.md
-        ├── modulo2_componentes.md
-        └── modulo3_integracoes.md
+    ├── fastapi/
+    │   ├── modulo1_basico.md
+    │   ├── modulo2_rotas.md
+    │   └── modulo3_autenticacao.md
+    │
+    ├── react/
+    │   ├── modulo1_basico.md
+    │   ├── modulo2_componentes.md
+    │   └── modulo3_integracoes.md
+    │
+    └── nextjs/
+        ├── modulo1_intro.md
+        ├── modulo2_rotas_api.md
+        └── modulo3_fullstack.md
 ```
 
 ---
 
 ## 🎯 Objetivos
 
-- 📚 Ensinar conceitos técnicos de forma **progressiva e modular**
-- 💡 Mostrar aplicações reais desde o primeiro módulo
-- 🧱 Criar uma base sólida para estudos e projetos
-- 🚀 Incentivar o aprendizado prático com exemplos e desafios
+- 📚 Ensinar **de forma modular e progressiva**
+- 💡 Mostrar **aplicações reais desde o início**
+- 🧱 Criar **bases sólidas** para linguagens e frameworks
+- 🚀 Incentivar **aprendizado ativo e prático** com desafios integrados
 
 ---
 
@@ -111,21 +102,36 @@ devkickstart/
 
 | Módulo | Nível | Descrição |
 |--------|--------|------------|
-| **1️⃣ Fundamentos** | Iniciante | Sintaxe, variáveis, condicionais, loops |
-| **2️⃣ Intermediário** | Médio | Funções, coleções, arquivos, POO básica |
-| **3️⃣ Avançado** | Avançado | APIs, módulos, exceções e projetos completos |
+| **1️⃣ Fundamentos** | Iniciante | Sintaxe, variáveis, condicionais, loops e funções |
+| **2️⃣ Intermediário** | Médio | Arquivos, funções avançadas, tratamento de erros, POO básica |
+| **3️⃣ Avançado** | Avançado | POO avançada, APIs, módulos, testes e integração com frameworks |
 
 ---
 
 ## 💻 Como Utilizar
 
-1. Escolha a linguagem que deseja estudar  
-2. Leia os módulos em ordem (1 → 2 → 3)  
-3. Execute os exemplos de cada seção  
-4. Resolva os exercícios propostos  
-5. Consulte as fontes recomendadas e expanda seu aprendizado  
+1. Escolha a **linguagem** ou **framework** desejado  
+2. Leia os módulos em sequência (1 → 2 → 3)  
+3. Execute os exemplos práticos:
+   ```bash
+   python linguagens/python/exemplos/modulo1_exemplos.py
+   ```
+4. Resolva os desafios no final de cada módulo  
+5. Acompanhe as trilhas de frameworks para aplicar o que aprendeu
 
-> 💬 **Dica:** a prática constante é o que transforma teoria em habilidade real.
+> 💬 **Dica:** pratique sempre escrevendo o código —  
+> aprender é repetir até se tornar natural. 🧩
+
+---
+
+## ⚙️ Frameworks Disponíveis
+
+| Framework | Linguagem Base | Descrição |
+|------------|----------------|------------|
+| 🐍 **Django** | Python | Framework completo para desenvolvimento web, com ORM, templates e administração pronta |
+| ⚡ **FastAPI** | Python | Framework moderno e rápido para criação de APIs REST com tipagem e validação |
+| ⚛️ **React** | JavaScript | Biblioteca para interfaces reativas e componentizadas |
+| ▲ **Next.js** | JavaScript / TypeScript | Framework fullstack baseado em React, com SSR e rotas automáticas |
 
 ---
 
@@ -136,20 +142,28 @@ Você pode contribuir com:
 - ✍️ Novos módulos e exemplos  
 - 🧩 Correções e melhorias  
 - 🌍 Traduções (PT-BR / EN)  
-- 💡 Sugestões e ideias de novos conteúdos  
+- 💡 Sugestões de novas trilhas  
 
-Basta abrir uma **issue** ou enviar um **pull request**!
+Basta abrir uma **issue** ou enviar um **pull request**! 🚀
 
 ---
 
 ## 👨‍💻 Autor
 
 Feito com 💙 por [**@imnikollasdev**](https://github.com/imnikollasdev)  
-> “Estudar é o primeiro deploy da tua carreira.” 🚀
+> “Estudar é o primeiro deploy da tua carreira.” 💡
+
+---
+
+## 📅 Próximos Passos
+
+- 🟢 Publicar trilhas completas de **Django** e **FastAPI**  
+- 🟡 Avançar com módulos de **Next.js** e **React**  
+- 🧠 Adicionar seções de **Banco de Dados** e **APIs**  
+- 🌐 Integrar linguagens com frameworks correspondentes
 
 ---
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [MIT License](./LICENSE).
-
+Este projeto está licenciado sob a [MIT License](./LICENSE)
